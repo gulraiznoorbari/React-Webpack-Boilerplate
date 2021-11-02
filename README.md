@@ -5,7 +5,7 @@
 
 ## Functionalities
 
--   [x] Build React App without interacting with the CLI
+-   [x] No interaction with the CLI needed
 -   [x] Live Hot Reload
 
 ## INSTALLATION
