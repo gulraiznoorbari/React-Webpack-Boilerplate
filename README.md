@@ -17,7 +17,7 @@ npm install
 npm start
 ```
 
-## For Production
+## For Production Build
 
 ```
 npm build
